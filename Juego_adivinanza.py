@@ -18,7 +18,7 @@ for intento in range (1, 4):
         if intento == 1:
             print("felicitaciones, adivinaste en el primer intento")
         else:
-            print("correcto")
+            print("correcto"
         break
     else:
         if intento < 3:
